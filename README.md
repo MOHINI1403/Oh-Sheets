@@ -47,6 +47,9 @@ Key Functionalities Demonstrated in the Prototype:
 - **Real-Time-Collaboration** : Socket.IO
 - **containerization** : Docker
 
+## Architecture:
+![OH Sheets Architecture](https://raw.githubusercontent.com/MOHINI1403/Oh-Sheets/main/OH-Sheets%20Architecture.png)
+
 ## Relevant Links:
 - **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=W1fe2un6SVY)
 - **Deployed Link**: [Deployed Project Link](social-calc-internal-frontend.vercel.app)
